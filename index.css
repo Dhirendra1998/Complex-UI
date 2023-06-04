@@ -1,0 +1,21 @@
+.navbrand {
+  font-weight: 100 /* rtl:600 */;
+}
+.carousel-item img{
+  height:100vh;
+}
+.container-fluid {
+  padding: 20px 0;
+}
+
+.f-container-2{
+  display: flex;
+  justify-content: space-around;
+  padding-right: 60px;
+  padding-top: 20px;
+}
+
+
+
+
+
